@@ -1,0 +1,9 @@
+Linked List çalışmalarım doğrultusunda yaptıklarımı pekiştirmek ve gerçek hayata yönelik bir program üretmek istedim. Ardından projeye menü oluşturdum. Kodlarım Program.cs de bulunmaktadır. Visual studio dosyamı da ekledim.
+
+Programın İçeriği:
+*Öğrenci ekleme
+*Öğrenci silme
+*Öğrencileri yazdırma
+*En Başarılı Öğrenciyi belirleme ve yazdırma
+
+İlerleyen zamanlarda ekleme yapmayı planlıyorum.

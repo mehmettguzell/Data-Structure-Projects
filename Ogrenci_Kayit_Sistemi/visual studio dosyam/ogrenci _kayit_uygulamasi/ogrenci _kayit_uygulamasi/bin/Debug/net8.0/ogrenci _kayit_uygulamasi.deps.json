@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ogrenci _kayit_uygulamasi/1.0.0": {
+        "runtime": {
+          "ogrenci _kayit_uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ogrenci _kayit_uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
