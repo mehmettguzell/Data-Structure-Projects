@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\bin\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.exe
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\bin\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.deps.json
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\bin\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.runtimeconfig.json
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\bin\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.dll
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\bin\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.pdb
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.dll
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\refint\Palindrom_kelime_stack_ve_Queue.dll
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.pdb
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\Palindrom_kelime_stack_ve_Queue.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Projeler\Palindrom_kelime_stack_ve_Queue\Palindrom_kelime_stack_ve_Queue\obj\Debug\net8.0\ref\Palindrom_kelime_stack_ve_Queue.dll

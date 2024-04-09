@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Palindrom_kelime_stack_ve_Queue/1.0.0": {
+        "runtime": {
+          "Palindrom_kelime_stack_ve_Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindrom_kelime_stack_ve_Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,2 @@
+Stack ve Queue çalışmamdan sonra yaptıklarımı pekiştirmek için STACK ve QUEUE kullanarak basit bir PALINDROM kelime bulma uygulaması yazdım.
+visual studio dosyam ve kodlarım klasörde bulunmaktadır.
